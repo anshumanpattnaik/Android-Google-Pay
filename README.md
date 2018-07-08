@@ -5,6 +5,8 @@ This is a sample tutorial of Google Pay API.
 
 The api can be use with any Credit or Debit card using client's google account.
 
+<img src="/Screenshots/01.png" width="300">
+
 ## Requirements
 
 -   Android Studio 3.0 or newer installed.
